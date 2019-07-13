@@ -5,3 +5,5 @@ export { default as UdaciSteppers } from './UdaciSteppers';
 export { default as TextButton } from './TextButton';
 export { default as History } from './History';
 export { default as MetricCard } from './MetricCard';
+export { default as EntryDetail } from './EntryDetail';
+export { default as Live } from './Live';

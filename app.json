@@ -1,7 +1,5 @@
 {
   "expo": {
-    "name": "Udacity Fitness",
-    "slug": "UdacityFitness",
     "privacy": "public",
     "sdkVersion": "33.0.0",
     "platforms": [
