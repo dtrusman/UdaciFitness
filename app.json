@@ -1,5 +1,8 @@
 {
   "expo": {
+    "name": "UdaciFitness",
+    "description": "The best triathlon tracker ever",
+    "slug": "udacfitness",
     "privacy": "public",
     "sdkVersion": "33.0.0",
     "platforms": [
@@ -23,6 +26,9 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "org.udacifitness.exp"
     }
   }
 }
